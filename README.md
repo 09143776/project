@@ -1,0 +1,29 @@
+# project学生选课系统
+<hr/>
+  <h3>1、类图/时序图/数据库结构图/项目结构图</h3>
+![](picture/领域图1.PNG)
+![](picture/领域图2.PNG)
+![](picture/领域图3.PNG)
+![](picture/顺序图1.PNG)
+![](picture/顺序图2.PNG)
+![](picture/代码结构.PNG)
+<hr/>
+  <h3>2、系统截图</h3>
+  ![](picture/1.PNG)
+  ![](picture/2.PNG)
+  ![](picture/3.PNG)
+  ![](picture/4.PNG)
+  ![](picture/5.PNG)
+  ![](picture/6.PNG)
+  ![](picture/7.PNG)
+  ![](picture/8.PNG)
+  ![](picture/9.PNG)
+  ![](picture/10.PNG)
+  ![](picture/11.PNG)
+  ![](picture/12.PNG)
+  ![](picture/13.PNG)
+  ![](picture/14.PNG)
+  <hr/>
+  <h3>3、测试截图</h3>
+  ![](picture/15.PNG)
+  ![](picture/16.PNG)

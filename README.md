@@ -6,6 +6,7 @@
   <img src="picture/领域图3.PNG" />
   <img src="picture/顺序图1.PNG" />
   <img src="picture/顺序图2.PNG" />
+  <img src="picture/数据库.PNG" />
   <img src="picture/代码结构.PNG" />
 <hr/>
   <h3>2、系统截图</h3>
